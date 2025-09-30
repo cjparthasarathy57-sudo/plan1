@@ -1,0 +1,8404 @@
+{
+  "housePlans": [
+    {
+      "filename": "Plan1.jpg",
+      "file_path": "/mnt/data/plans/Plan1.jpg",
+      "file_size": 400001,
+      "image_width": 2201,
+      "image_height": 1601,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan2.jpg",
+      "file_path": "/mnt/data/plans/Plan2.jpg",
+      "file_size": 400002,
+      "image_width": 2202,
+      "image_height": 1602,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan3.jpg",
+      "file_path": "/mnt/data/plans/Plan3.jpg",
+      "file_size": 400003,
+      "image_width": 2203,
+      "image_height": 1603,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan4.jpg",
+      "file_path": "/mnt/data/plans/Plan4.jpg",
+      "file_size": 400004,
+      "image_width": 2204,
+      "image_height": 1604,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan5.jpg",
+      "file_path": "/mnt/data/plans/Plan5.jpg",
+      "file_size": 400005,
+      "image_width": 2205,
+      "image_height": 1605,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan6.jpg",
+      "file_path": "/mnt/data/plans/Plan6.jpg",
+      "file_size": 400006,
+      "image_width": 2206,
+      "image_height": 1606,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan7.jpg",
+      "file_path": "/mnt/data/plans/Plan7.jpg",
+      "file_size": 400007,
+      "image_width": 2207,
+      "image_height": 1607,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan8.jpg",
+      "file_path": "/mnt/data/plans/Plan8.jpg",
+      "file_size": 400008,
+      "image_width": 2208,
+      "image_height": 1608,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan9.jpg",
+      "file_path": "/mnt/data/plans/Plan9.jpg",
+      "file_size": 400009,
+      "image_width": 2209,
+      "image_height": 1609,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan10.jpg",
+      "file_path": "/mnt/data/plans/Plan10.jpg",
+      "file_size": 400010,
+      "image_width": 2210,
+      "image_height": 1610,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan11.jpg",
+      "file_path": "/mnt/data/plans/Plan11.jpg",
+      "file_size": 400011,
+      "image_width": 2211,
+      "image_height": 1611,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan12.jpg",
+      "file_path": "/mnt/data/plans/Plan12.jpg",
+      "file_size": 400012,
+      "image_width": 2212,
+      "image_height": 1612,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan13.jpg",
+      "file_path": "/mnt/data/plans/Plan13.jpg",
+      "file_size": 400013,
+      "image_width": 2213,
+      "image_height": 1613,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan14.jpg",
+      "file_path": "/mnt/data/plans/Plan14.jpg",
+      "file_size": 400014,
+      "image_width": 2214,
+      "image_height": 1614,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan15.jpg",
+      "file_path": "/mnt/data/plans/Plan15.jpg",
+      "file_size": 400015,
+      "image_width": 2215,
+      "image_height": 1615,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan16.jpg",
+      "file_path": "/mnt/data/plans/Plan16.jpg",
+      "file_size": 400016,
+      "image_width": 2216,
+      "image_height": 1616,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan17.jpg",
+      "file_path": "/mnt/data/plans/Plan17.jpg",
+      "file_size": 400017,
+      "image_width": 2217,
+      "image_height": 1617,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan18.jpg",
+      "file_path": "/mnt/data/plans/Plan18.jpg",
+      "file_size": 400018,
+      "image_width": 2218,
+      "image_height": 1618,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan19.jpg",
+      "file_path": "/mnt/data/plans/Plan19.jpg",
+      "file_size": 400019,
+      "image_width": 2219,
+      "image_height": 1619,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan20.jpg",
+      "file_path": "/mnt/data/plans/Plan20.jpg",
+      "file_size": 400020,
+      "image_width": 2220,
+      "image_height": 1620,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan21.jpg",
+      "file_path": "/mnt/data/plans/Plan21.jpg",
+      "file_size": 400021,
+      "image_width": 2221,
+      "image_height": 1621,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan22.jpg",
+      "file_path": "/mnt/data/plans/Plan22.jpg",
+      "file_size": 400022,
+      "image_width": 2222,
+      "image_height": 1622,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan23.jpg",
+      "file_path": "/mnt/data/plans/Plan23.jpg",
+      "file_size": 400023,
+      "image_width": 2223,
+      "image_height": 1623,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan24.jpg",
+      "file_path": "/mnt/data/plans/Plan24.jpg",
+      "file_size": 400024,
+      "image_width": 2224,
+      "image_height": 1624,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan25.jpg",
+      "file_path": "/mnt/data/plans/Plan25.jpg",
+      "file_size": 400025,
+      "image_width": 2225,
+      "image_height": 1625,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan26.jpg",
+      "file_path": "/mnt/data/plans/Plan26.jpg",
+      "file_size": 400026,
+      "image_width": 2226,
+      "image_height": 1626,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan27.jpg",
+      "file_path": "/mnt/data/plans/Plan27.jpg",
+      "file_size": 400027,
+      "image_width": 2227,
+      "image_height": 1627,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan28.jpg",
+      "file_path": "/mnt/data/plans/Plan28.jpg",
+      "file_size": 400028,
+      "image_width": 2228,
+      "image_height": 1628,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan29.jpg",
+      "file_path": "/mnt/data/plans/Plan29.jpg",
+      "file_size": 400029,
+      "image_width": 2229,
+      "image_height": 1629,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan30.jpg",
+      "file_path": "/mnt/data/plans/Plan30.jpg",
+      "file_size": 400030,
+      "image_width": 2230,
+      "image_height": 1630,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan31.jpg",
+      "file_path": "/mnt/data/plans/Plan31.jpg",
+      "file_size": 400031,
+      "image_width": 2231,
+      "image_height": 1631,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan32.jpg",
+      "file_path": "/mnt/data/plans/Plan32.jpg",
+      "file_size": 400032,
+      "image_width": 2232,
+      "image_height": 1632,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan33.jpg",
+      "file_path": "/mnt/data/plans/Plan33.jpg",
+      "file_size": 400033,
+      "image_width": 2233,
+      "image_height": 1633,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan34.jpg",
+      "file_path": "/mnt/data/plans/Plan34.jpg",
+      "file_size": 400034,
+      "image_width": 2234,
+      "image_height": 1634,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan35.jpg",
+      "file_path": "/mnt/data/plans/Plan35.jpg",
+      "file_size": 400035,
+      "image_width": 2235,
+      "image_height": 1635,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan36.jpg",
+      "file_path": "/mnt/data/plans/Plan36.jpg",
+      "file_size": 400036,
+      "image_width": 2236,
+      "image_height": 1636,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan37.jpg",
+      "file_path": "/mnt/data/plans/Plan37.jpg",
+      "file_size": 400037,
+      "image_width": 2237,
+      "image_height": 1637,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan38.jpg",
+      "file_path": "/mnt/data/plans/Plan38.jpg",
+      "file_size": 400038,
+      "image_width": 2238,
+      "image_height": 1638,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan39.jpg",
+      "file_path": "/mnt/data/plans/Plan39.jpg",
+      "file_size": 400039,
+      "image_width": 2239,
+      "image_height": 1639,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan40.jpg",
+      "file_path": "/mnt/data/plans/Plan40.jpg",
+      "file_size": 400040,
+      "image_width": 2240,
+      "image_height": 1640,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan41.jpg",
+      "file_path": "/mnt/data/plans/Plan41.jpg",
+      "file_size": 400041,
+      "image_width": 2241,
+      "image_height": 1641,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan42.jpg",
+      "file_path": "/mnt/data/plans/Plan42.jpg",
+      "file_size": 400042,
+      "image_width": 2242,
+      "image_height": 1642,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan43.jpg",
+      "file_path": "/mnt/data/plans/Plan43.jpg",
+      "file_size": 400043,
+      "image_width": 2243,
+      "image_height": 1643,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan44.jpg",
+      "file_path": "/mnt/data/plans/Plan44.jpg",
+      "file_size": 400044,
+      "image_width": 2244,
+      "image_height": 1644,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan45.jpg",
+      "file_path": "/mnt/data/plans/Plan45.jpg",
+      "file_size": 400045,
+      "image_width": 2245,
+      "image_height": 1645,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan46.jpg",
+      "file_path": "/mnt/data/plans/Plan46.jpg",
+      "file_size": 400046,
+      "image_width": 2246,
+      "image_height": 1646,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan47.jpg",
+      "file_path": "/mnt/data/plans/Plan47.jpg",
+      "file_size": 400047,
+      "image_width": 2247,
+      "image_height": 1647,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan48.jpg",
+      "file_path": "/mnt/data/plans/Plan48.jpg",
+      "file_size": 400048,
+      "image_width": 2248,
+      "image_height": 1648,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan49.jpg",
+      "file_path": "/mnt/data/plans/Plan49.jpg",
+      "file_size": 400049,
+      "image_width": 2249,
+      "image_height": 1649,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan50.jpg",
+      "file_path": "/mnt/data/plans/Plan50.jpg",
+      "file_size": 400050,
+      "image_width": 2250,
+      "image_height": 1650,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan51.jpg",
+      "file_path": "/mnt/data/plans/Plan51.jpg",
+      "file_size": 400051,
+      "image_width": 2251,
+      "image_height": 1651,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan52.jpg",
+      "file_path": "/mnt/data/plans/Plan52.jpg",
+      "file_size": 400052,
+      "image_width": 2252,
+      "image_height": 1652,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan53.jpg",
+      "file_path": "/mnt/data/plans/Plan53.jpg",
+      "file_size": 400053,
+      "image_width": 2253,
+      "image_height": 1653,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan54.jpg",
+      "file_path": "/mnt/data/plans/Plan54.jpg",
+      "file_size": 400054,
+      "image_width": 2254,
+      "image_height": 1654,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan55.jpg",
+      "file_path": "/mnt/data/plans/Plan55.jpg",
+      "file_size": 400055,
+      "image_width": 2255,
+      "image_height": 1655,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan56.jpg",
+      "file_path": "/mnt/data/plans/Plan56.jpg",
+      "file_size": 400056,
+      "image_width": 2256,
+      "image_height": 1656,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan57.jpg",
+      "file_path": "/mnt/data/plans/Plan57.jpg",
+      "file_size": 400057,
+      "image_width": 2257,
+      "image_height": 1657,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan58.jpg",
+      "file_path": "/mnt/data/plans/Plan58.jpg",
+      "file_size": 400058,
+      "image_width": 2258,
+      "image_height": 1658,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan59.jpg",
+      "file_path": "/mnt/data/plans/Plan59.jpg",
+      "file_size": 400059,
+      "image_width": 2259,
+      "image_height": 1659,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan60.jpg",
+      "file_path": "/mnt/data/plans/Plan60.jpg",
+      "file_size": 400060,
+      "image_width": 2260,
+      "image_height": 1660,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan61.jpg",
+      "file_path": "/mnt/data/plans/Plan61.jpg",
+      "file_size": 400061,
+      "image_width": 2261,
+      "image_height": 1661,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan62.jpg",
+      "file_path": "/mnt/data/plans/Plan62.jpg",
+      "file_size": 400062,
+      "image_width": 2262,
+      "image_height": 1662,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan63.jpg",
+      "file_path": "/mnt/data/plans/Plan63.jpg",
+      "file_size": 400063,
+      "image_width": 2263,
+      "image_height": 1663,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan64.jpg",
+      "file_path": "/mnt/data/plans/Plan64.jpg",
+      "file_size": 400064,
+      "image_width": 2264,
+      "image_height": 1664,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan65.jpg",
+      "file_path": "/mnt/data/plans/Plan65.jpg",
+      "file_size": 400065,
+      "image_width": 2265,
+      "image_height": 1665,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan66.jpg",
+      "file_path": "/mnt/data/plans/Plan66.jpg",
+      "file_size": 400066,
+      "image_width": 2266,
+      "image_height": 1666,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan67.jpg",
+      "file_path": "/mnt/data/plans/Plan67.jpg",
+      "file_size": 400067,
+      "image_width": 2267,
+      "image_height": 1667,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan68.jpg",
+      "file_path": "/mnt/data/plans/Plan68.jpg",
+      "file_size": 400068,
+      "image_width": 2268,
+      "image_height": 1668,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan69.jpg",
+      "file_path": "/mnt/data/plans/Plan69.jpg",
+      "file_size": 400069,
+      "image_width": 2269,
+      "image_height": 1669,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan70.jpg",
+      "file_path": "/mnt/data/plans/Plan70.jpg",
+      "file_size": 400070,
+      "image_width": 2270,
+      "image_height": 1670,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan71.jpg",
+      "file_path": "/mnt/data/plans/Plan71.jpg",
+      "file_size": 400071,
+      "image_width": 2271,
+      "image_height": 1671,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan72.jpg",
+      "file_path": "/mnt/data/plans/Plan72.jpg",
+      "file_size": 400072,
+      "image_width": 2272,
+      "image_height": 1672,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan73.jpg",
+      "file_path": "/mnt/data/plans/Plan73.jpg",
+      "file_size": 400073,
+      "image_width": 2273,
+      "image_height": 1673,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan74.jpg",
+      "file_path": "/mnt/data/plans/Plan74.jpg",
+      "file_size": 400074,
+      "image_width": 2274,
+      "image_height": 1674,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan75.jpg",
+      "file_path": "/mnt/data/plans/Plan75.jpg",
+      "file_size": 400075,
+      "image_width": 2275,
+      "image_height": 1675,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan76.jpg",
+      "file_path": "/mnt/data/plans/Plan76.jpg",
+      "file_size": 400076,
+      "image_width": 2276,
+      "image_height": 1676,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan77.jpg",
+      "file_path": "/mnt/data/plans/Plan77.jpg",
+      "file_size": 400077,
+      "image_width": 2277,
+      "image_height": 1677,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan78.jpg",
+      "file_path": "/mnt/data/plans/Plan78.jpg",
+      "file_size": 400078,
+      "image_width": 2278,
+      "image_height": 1678,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan79.jpg",
+      "file_path": "/mnt/data/plans/Plan79.jpg",
+      "file_size": 400079,
+      "image_width": 2279,
+      "image_height": 1679,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan80.jpg",
+      "file_path": "/mnt/data/plans/Plan80.jpg",
+      "file_size": 400080,
+      "image_width": 2280,
+      "image_height": 1600,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan81.jpg",
+      "file_path": "/mnt/data/plans/Plan81.jpg",
+      "file_size": 400081,
+      "image_width": 2281,
+      "image_height": 1601,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan82.jpg",
+      "file_path": "/mnt/data/plans/Plan82.jpg",
+      "file_size": 400082,
+      "image_width": 2282,
+      "image_height": 1602,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan83.jpg",
+      "file_path": "/mnt/data/plans/Plan83.jpg",
+      "file_size": 400083,
+      "image_width": 2283,
+      "image_height": 1603,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan84.jpg",
+      "file_path": "/mnt/data/plans/Plan84.jpg",
+      "file_size": 400084,
+      "image_width": 2284,
+      "image_height": 1604,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan85.jpg",
+      "file_path": "/mnt/data/plans/Plan85.jpg",
+      "file_size": 400085,
+      "image_width": 2285,
+      "image_height": 1605,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan86.jpg",
+      "file_path": "/mnt/data/plans/Plan86.jpg",
+      "file_size": 400086,
+      "image_width": 2286,
+      "image_height": 1606,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan87.jpg",
+      "file_path": "/mnt/data/plans/Plan87.jpg",
+      "file_size": 400087,
+      "image_width": 2287,
+      "image_height": 1607,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan88.jpg",
+      "file_path": "/mnt/data/plans/Plan88.jpg",
+      "file_size": 400088,
+      "image_width": 2288,
+      "image_height": 1608,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan89.jpg",
+      "file_path": "/mnt/data/plans/Plan89.jpg",
+      "file_size": 400089,
+      "image_width": 2289,
+      "image_height": 1609,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan90.jpg",
+      "file_path": "/mnt/data/plans/Plan90.jpg",
+      "file_size": 400090,
+      "image_width": 2290,
+      "image_height": 1610,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan91.jpg",
+      "file_path": "/mnt/data/plans/Plan91.jpg",
+      "file_size": 400091,
+      "image_width": 2291,
+      "image_height": 1611,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan92.jpg",
+      "file_path": "/mnt/data/plans/Plan92.jpg",
+      "file_size": 400092,
+      "image_width": 2292,
+      "image_height": 1612,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan93.jpg",
+      "file_path": "/mnt/data/plans/Plan93.jpg",
+      "file_size": 400093,
+      "image_width": 2293,
+      "image_height": 1613,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan94.jpg",
+      "file_path": "/mnt/data/plans/Plan94.jpg",
+      "file_size": 400094,
+      "image_width": 2294,
+      "image_height": 1614,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan95.jpg",
+      "file_path": "/mnt/data/plans/Plan95.jpg",
+      "file_size": 400095,
+      "image_width": 2295,
+      "image_height": 1615,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan96.jpg",
+      "file_path": "/mnt/data/plans/Plan96.jpg",
+      "file_size": 400096,
+      "image_width": 2296,
+      "image_height": 1616,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan97.jpg",
+      "file_path": "/mnt/data/plans/Plan97.jpg",
+      "file_size": 400097,
+      "image_width": 2297,
+      "image_height": 1617,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan98.jpg",
+      "file_path": "/mnt/data/plans/Plan98.jpg",
+      "file_size": 400098,
+      "image_width": 2298,
+      "image_height": 1618,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan99.jpg",
+      "file_path": "/mnt/data/plans/Plan99.jpg",
+      "file_size": 400099,
+      "image_width": 2299,
+      "image_height": 1619,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan100.jpg",
+      "file_path": "/mnt/data/plans/Plan100.jpg",
+      "file_size": 400100,
+      "image_width": 2200,
+      "image_height": 1620,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan101.jpg",
+      "file_path": "/mnt/data/plans/Plan101.jpg",
+      "file_size": 400101,
+      "image_width": 2201,
+      "image_height": 1621,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan102.jpg",
+      "file_path": "/mnt/data/plans/Plan102.jpg",
+      "file_size": 400102,
+      "image_width": 2202,
+      "image_height": 1622,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan103.jpg",
+      "file_path": "/mnt/data/plans/Plan103.jpg",
+      "file_size": 400103,
+      "image_width": 2203,
+      "image_height": 1623,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan104.jpg",
+      "file_path": "/mnt/data/plans/Plan104.jpg",
+      "file_size": 400104,
+      "image_width": 2204,
+      "image_height": 1624,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan105.jpg",
+      "file_path": "/mnt/data/plans/Plan105.jpg",
+      "file_size": 400105,
+      "image_width": 2205,
+      "image_height": 1625,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan106.jpg",
+      "file_path": "/mnt/data/plans/Plan106.jpg",
+      "file_size": 400106,
+      "image_width": 2206,
+      "image_height": 1626,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan107.jpg",
+      "file_path": "/mnt/data/plans/Plan107.jpg",
+      "file_size": 400107,
+      "image_width": 2207,
+      "image_height": 1627,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan108.jpg",
+      "file_path": "/mnt/data/plans/Plan108.jpg",
+      "file_size": 400108,
+      "image_width": 2208,
+      "image_height": 1628,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan109.jpg",
+      "file_path": "/mnt/data/plans/Plan109.jpg",
+      "file_size": 400109,
+      "image_width": 2209,
+      "image_height": 1629,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan110.jpg",
+      "file_path": "/mnt/data/plans/Plan110.jpg",
+      "file_size": 400110,
+      "image_width": 2210,
+      "image_height": 1630,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan111.jpg",
+      "file_path": "/mnt/data/plans/Plan111.jpg",
+      "file_size": 400111,
+      "image_width": 2211,
+      "image_height": 1631,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan112.jpg",
+      "file_path": "/mnt/data/plans/Plan112.jpg",
+      "file_size": 400112,
+      "image_width": 2212,
+      "image_height": 1632,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan113.jpg",
+      "file_path": "/mnt/data/plans/Plan113.jpg",
+      "file_size": 400113,
+      "image_width": 2213,
+      "image_height": 1633,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan114.jpg",
+      "file_path": "/mnt/data/plans/Plan114.jpg",
+      "file_size": 400114,
+      "image_width": 2214,
+      "image_height": 1634,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan115.jpg",
+      "file_path": "/mnt/data/plans/Plan115.jpg",
+      "file_size": 400115,
+      "image_width": 2215,
+      "image_height": 1635,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan116.jpg",
+      "file_path": "/mnt/data/plans/Plan116.jpg",
+      "file_size": 400116,
+      "image_width": 2216,
+      "image_height": 1636,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan117.jpg",
+      "file_path": "/mnt/data/plans/Plan117.jpg",
+      "file_size": 400117,
+      "image_width": 2217,
+      "image_height": 1637,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan118.jpg",
+      "file_path": "/mnt/data/plans/Plan118.jpg",
+      "file_size": 400118,
+      "image_width": 2218,
+      "image_height": 1638,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan119.jpg",
+      "file_path": "/mnt/data/plans/Plan119.jpg",
+      "file_size": 400119,
+      "image_width": 2219,
+      "image_height": 1639,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan120.jpg",
+      "file_path": "/mnt/data/plans/Plan120.jpg",
+      "file_size": 400120,
+      "image_width": 2220,
+      "image_height": 1640,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan121.jpg",
+      "file_path": "/mnt/data/plans/Plan121.jpg",
+      "file_size": 400121,
+      "image_width": 2221,
+      "image_height": 1641,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan122.jpg",
+      "file_path": "/mnt/data/plans/Plan122.jpg",
+      "file_size": 400122,
+      "image_width": 2222,
+      "image_height": 1642,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan123.jpg",
+      "file_path": "/mnt/data/plans/Plan123.jpg",
+      "file_size": 400123,
+      "image_width": 2223,
+      "image_height": 1643,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan124.jpg",
+      "file_path": "/mnt/data/plans/Plan124.jpg",
+      "file_size": 400124,
+      "image_width": 2224,
+      "image_height": 1644,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan125.jpg",
+      "file_path": "/mnt/data/plans/Plan125.jpg",
+      "file_size": 400125,
+      "image_width": 2225,
+      "image_height": 1645,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan126.jpg",
+      "file_path": "/mnt/data/plans/Plan126.jpg",
+      "file_size": 400126,
+      "image_width": 2226,
+      "image_height": 1646,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan127.jpg",
+      "file_path": "/mnt/data/plans/Plan127.jpg",
+      "file_size": 400127,
+      "image_width": 2227,
+      "image_height": 1647,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan128.jpg",
+      "file_path": "/mnt/data/plans/Plan128.jpg",
+      "file_size": 400128,
+      "image_width": 2228,
+      "image_height": 1648,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan129.jpg",
+      "file_path": "/mnt/data/plans/Plan129.jpg",
+      "file_size": 400129,
+      "image_width": 2229,
+      "image_height": 1649,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan130.jpg",
+      "file_path": "/mnt/data/plans/Plan130.jpg",
+      "file_size": 400130,
+      "image_width": 2230,
+      "image_height": 1650,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan131.jpg",
+      "file_path": "/mnt/data/plans/Plan131.jpg",
+      "file_size": 400131,
+      "image_width": 2231,
+      "image_height": 1651,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan132.jpg",
+      "file_path": "/mnt/data/plans/Plan132.jpg",
+      "file_size": 400132,
+      "image_width": 2232,
+      "image_height": 1652,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan133.jpg",
+      "file_path": "/mnt/data/plans/Plan133.jpg",
+      "file_size": 400133,
+      "image_width": 2233,
+      "image_height": 1653,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan134.jpg",
+      "file_path": "/mnt/data/plans/Plan134.jpg",
+      "file_size": 400134,
+      "image_width": 2234,
+      "image_height": 1654,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan135.jpg",
+      "file_path": "/mnt/data/plans/Plan135.jpg",
+      "file_size": 400135,
+      "image_width": 2235,
+      "image_height": 1655,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan136.jpg",
+      "file_path": "/mnt/data/plans/Plan136.jpg",
+      "file_size": 400136,
+      "image_width": 2236,
+      "image_height": 1656,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan137.jpg",
+      "file_path": "/mnt/data/plans/Plan137.jpg",
+      "file_size": 400137,
+      "image_width": 2237,
+      "image_height": 1657,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan138.jpg",
+      "file_path": "/mnt/data/plans/Plan138.jpg",
+      "file_size": 400138,
+      "image_width": 2238,
+      "image_height": 1658,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan139.jpg",
+      "file_path": "/mnt/data/plans/Plan139.jpg",
+      "file_size": 400139,
+      "image_width": 2239,
+      "image_height": 1659,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan140.jpg",
+      "file_path": "/mnt/data/plans/Plan140.jpg",
+      "file_size": 400140,
+      "image_width": 2240,
+      "image_height": 1660,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan141.jpg",
+      "file_path": "/mnt/data/plans/Plan141.jpg",
+      "file_size": 400141,
+      "image_width": 2241,
+      "image_height": 1661,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan142.jpg",
+      "file_path": "/mnt/data/plans/Plan142.jpg",
+      "file_size": 400142,
+      "image_width": 2242,
+      "image_height": 1662,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan143.jpg",
+      "file_path": "/mnt/data/plans/Plan143.jpg",
+      "file_size": 400143,
+      "image_width": 2243,
+      "image_height": 1663,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan144.jpg",
+      "file_path": "/mnt/data/plans/Plan144.jpg",
+      "file_size": 400144,
+      "image_width": 2244,
+      "image_height": 1664,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan145.jpg",
+      "file_path": "/mnt/data/plans/Plan145.jpg",
+      "file_size": 400145,
+      "image_width": 2245,
+      "image_height": 1665,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan146.jpg",
+      "file_path": "/mnt/data/plans/Plan146.jpg",
+      "file_size": 400146,
+      "image_width": 2246,
+      "image_height": 1666,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan147.jpg",
+      "file_path": "/mnt/data/plans/Plan147.jpg",
+      "file_size": 400147,
+      "image_width": 2247,
+      "image_height": 1667,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan148.jpg",
+      "file_path": "/mnt/data/plans/Plan148.jpg",
+      "file_size": 400148,
+      "image_width": 2248,
+      "image_height": 1668,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan149.jpg",
+      "file_path": "/mnt/data/plans/Plan149.jpg",
+      "file_size": 400149,
+      "image_width": 2249,
+      "image_height": 1669,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan150.jpg",
+      "file_path": "/mnt/data/plans/Plan150.jpg",
+      "file_size": 400150,
+      "image_width": 2250,
+      "image_height": 1670,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan151.jpg",
+      "file_path": "/mnt/data/plans/Plan151.jpg",
+      "file_size": 400151,
+      "image_width": 2251,
+      "image_height": 1671,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan152.jpg",
+      "file_path": "/mnt/data/plans/Plan152.jpg",
+      "file_size": 400152,
+      "image_width": 2252,
+      "image_height": 1672,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan153.jpg",
+      "file_path": "/mnt/data/plans/Plan153.jpg",
+      "file_size": 400153,
+      "image_width": 2253,
+      "image_height": 1673,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan154.jpg",
+      "file_path": "/mnt/data/plans/Plan154.jpg",
+      "file_size": 400154,
+      "image_width": 2254,
+      "image_height": 1674,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan155.jpg",
+      "file_path": "/mnt/data/plans/Plan155.jpg",
+      "file_size": 400155,
+      "image_width": 2255,
+      "image_height": 1675,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan156.jpg",
+      "file_path": "/mnt/data/plans/Plan156.jpg",
+      "file_size": 400156,
+      "image_width": 2256,
+      "image_height": 1676,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan157.jpg",
+      "file_path": "/mnt/data/plans/Plan157.jpg",
+      "file_size": 400157,
+      "image_width": 2257,
+      "image_height": 1677,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan158.jpg",
+      "file_path": "/mnt/data/plans/Plan158.jpg",
+      "file_size": 400158,
+      "image_width": 2258,
+      "image_height": 1678,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan159.jpg",
+      "file_path": "/mnt/data/plans/Plan159.jpg",
+      "file_size": 400159,
+      "image_width": 2259,
+      "image_height": 1679,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan160.jpg",
+      "file_path": "/mnt/data/plans/Plan160.jpg",
+      "file_size": 400160,
+      "image_width": 2260,
+      "image_height": 1600,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan161.jpg",
+      "file_path": "/mnt/data/plans/Plan161.jpg",
+      "file_size": 400161,
+      "image_width": 2261,
+      "image_height": 1601,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan162.jpg",
+      "file_path": "/mnt/data/plans/Plan162.jpg",
+      "file_size": 400162,
+      "image_width": 2262,
+      "image_height": 1602,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan163.jpg",
+      "file_path": "/mnt/data/plans/Plan163.jpg",
+      "file_size": 400163,
+      "image_width": 2263,
+      "image_height": 1603,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan164.jpg",
+      "file_path": "/mnt/data/plans/Plan164.jpg",
+      "file_size": 400164,
+      "image_width": 2264,
+      "image_height": 1604,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan165.jpg",
+      "file_path": "/mnt/data/plans/Plan165.jpg",
+      "file_size": 400165,
+      "image_width": 2265,
+      "image_height": 1605,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan166.jpg",
+      "file_path": "/mnt/data/plans/Plan166.jpg",
+      "file_size": 400166,
+      "image_width": 2266,
+      "image_height": 1606,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan167.jpg",
+      "file_path": "/mnt/data/plans/Plan167.jpg",
+      "file_size": 400167,
+      "image_width": 2267,
+      "image_height": 1607,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan168.jpg",
+      "file_path": "/mnt/data/plans/Plan168.jpg",
+      "file_size": 400168,
+      "image_width": 2268,
+      "image_height": 1608,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan169.jpg",
+      "file_path": "/mnt/data/plans/Plan169.jpg",
+      "file_size": 400169,
+      "image_width": 2269,
+      "image_height": 1609,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan170.jpg",
+      "file_path": "/mnt/data/plans/Plan170.jpg",
+      "file_size": 400170,
+      "image_width": 2270,
+      "image_height": 1610,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan171.jpg",
+      "file_path": "/mnt/data/plans/Plan171.jpg",
+      "file_size": 400171,
+      "image_width": 2271,
+      "image_height": 1611,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan172.jpg",
+      "file_path": "/mnt/data/plans/Plan172.jpg",
+      "file_size": 400172,
+      "image_width": 2272,
+      "image_height": 1612,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan173.jpg",
+      "file_path": "/mnt/data/plans/Plan173.jpg",
+      "file_size": 400173,
+      "image_width": 2273,
+      "image_height": 1613,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan174.jpg",
+      "file_path": "/mnt/data/plans/Plan174.jpg",
+      "file_size": 400174,
+      "image_width": 2274,
+      "image_height": 1614,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan175.jpg",
+      "file_path": "/mnt/data/plans/Plan175.jpg",
+      "file_size": 400175,
+      "image_width": 2275,
+      "image_height": 1615,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan176.jpg",
+      "file_path": "/mnt/data/plans/Plan176.jpg",
+      "file_size": 400176,
+      "image_width": 2276,
+      "image_height": 1616,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan177.jpg",
+      "file_path": "/mnt/data/plans/Plan177.jpg",
+      "file_size": 400177,
+      "image_width": 2277,
+      "image_height": 1617,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan178.jpg",
+      "file_path": "/mnt/data/plans/Plan178.jpg",
+      "file_size": 400178,
+      "image_width": 2278,
+      "image_height": 1618,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan179.jpg",
+      "file_path": "/mnt/data/plans/Plan179.jpg",
+      "file_size": 400179,
+      "image_width": 2279,
+      "image_height": 1619,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan180.jpg",
+      "file_path": "/mnt/data/plans/Plan180.jpg",
+      "file_size": 400180,
+      "image_width": 2280,
+      "image_height": 1620,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan181.jpg",
+      "file_path": "/mnt/data/plans/Plan181.jpg",
+      "file_size": 400181,
+      "image_width": 2281,
+      "image_height": 1621,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan182.jpg",
+      "file_path": "/mnt/data/plans/Plan182.jpg",
+      "file_size": 400182,
+      "image_width": 2282,
+      "image_height": 1622,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan183.jpg",
+      "file_path": "/mnt/data/plans/Plan183.jpg",
+      "file_size": 400183,
+      "image_width": 2283,
+      "image_height": 1623,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan184.jpg",
+      "file_path": "/mnt/data/plans/Plan184.jpg",
+      "file_size": 400184,
+      "image_width": 2284,
+      "image_height": 1624,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan185.jpg",
+      "file_path": "/mnt/data/plans/Plan185.jpg",
+      "file_size": 400185,
+      "image_width": 2285,
+      "image_height": 1625,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan186.jpg",
+      "file_path": "/mnt/data/plans/Plan186.jpg",
+      "file_size": 400186,
+      "image_width": 2286,
+      "image_height": 1626,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan187.jpg",
+      "file_path": "/mnt/data/plans/Plan187.jpg",
+      "file_size": 400187,
+      "image_width": 2287,
+      "image_height": 1627,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan188.jpg",
+      "file_path": "/mnt/data/plans/Plan188.jpg",
+      "file_size": 400188,
+      "image_width": 2288,
+      "image_height": 1628,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan189.jpg",
+      "file_path": "/mnt/data/plans/Plan189.jpg",
+      "file_size": 400189,
+      "image_width": 2289,
+      "image_height": 1629,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan190.jpg",
+      "file_path": "/mnt/data/plans/Plan190.jpg",
+      "file_size": 400190,
+      "image_width": 2290,
+      "image_height": 1630,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan191.jpg",
+      "file_path": "/mnt/data/plans/Plan191.jpg",
+      "file_size": 400191,
+      "image_width": 2291,
+      "image_height": 1631,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan192.jpg",
+      "file_path": "/mnt/data/plans/Plan192.jpg",
+      "file_size": 400192,
+      "image_width": 2292,
+      "image_height": 1632,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan193.jpg",
+      "file_path": "/mnt/data/plans/Plan193.jpg",
+      "file_size": 400193,
+      "image_width": 2293,
+      "image_height": 1633,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan194.jpg",
+      "file_path": "/mnt/data/plans/Plan194.jpg",
+      "file_size": 400194,
+      "image_width": 2294,
+      "image_height": 1634,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan195.jpg",
+      "file_path": "/mnt/data/plans/Plan195.jpg",
+      "file_size": 400195,
+      "image_width": 2295,
+      "image_height": 1635,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan196.jpg",
+      "file_path": "/mnt/data/plans/Plan196.jpg",
+      "file_size": 400196,
+      "image_width": 2296,
+      "image_height": 1636,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan197.jpg",
+      "file_path": "/mnt/data/plans/Plan197.jpg",
+      "file_size": 400197,
+      "image_width": 2297,
+      "image_height": 1637,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan198.jpg",
+      "file_path": "/mnt/data/plans/Plan198.jpg",
+      "file_size": 400198,
+      "image_width": 2298,
+      "image_height": 1638,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan199.jpg",
+      "file_path": "/mnt/data/plans/Plan199.jpg",
+      "file_size": 400199,
+      "image_width": 2299,
+      "image_height": 1639,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan200.jpg",
+      "file_path": "/mnt/data/plans/Plan200.jpg",
+      "file_size": 400200,
+      "image_width": 2200,
+      "image_height": 1640,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan201.jpg",
+      "file_path": "/mnt/data/plans/Plan201.jpg",
+      "file_size": 400201,
+      "image_width": 2201,
+      "image_height": 1641,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan202.jpg",
+      "file_path": "/mnt/data/plans/Plan202.jpg",
+      "file_size": 400202,
+      "image_width": 2202,
+      "image_height": 1642,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan203.jpg",
+      "file_path": "/mnt/data/plans/Plan203.jpg",
+      "file_size": 400203,
+      "image_width": 2203,
+      "image_height": 1643,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan204.jpg",
+      "file_path": "/mnt/data/plans/Plan204.jpg",
+      "file_size": 400204,
+      "image_width": 2204,
+      "image_height": 1644,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan205.jpg",
+      "file_path": "/mnt/data/plans/Plan205.jpg",
+      "file_size": 400205,
+      "image_width": 2205,
+      "image_height": 1645,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan206.jpg",
+      "file_path": "/mnt/data/plans/Plan206.jpg",
+      "file_size": 400206,
+      "image_width": 2206,
+      "image_height": 1646,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan207.jpg",
+      "file_path": "/mnt/data/plans/Plan207.jpg",
+      "file_size": 400207,
+      "image_width": 2207,
+      "image_height": 1647,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan208.jpg",
+      "file_path": "/mnt/data/plans/Plan208.jpg",
+      "file_size": 400208,
+      "image_width": 2208,
+      "image_height": 1648,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan209.jpg",
+      "file_path": "/mnt/data/plans/Plan209.jpg",
+      "file_size": 400209,
+      "image_width": 2209,
+      "image_height": 1649,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan210.jpg",
+      "file_path": "/mnt/data/plans/Plan210.jpg",
+      "file_size": 400210,
+      "image_width": 2210,
+      "image_height": 1650,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan211.jpg",
+      "file_path": "/mnt/data/plans/Plan211.jpg",
+      "file_size": 400211,
+      "image_width": 2211,
+      "image_height": 1651,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan212.jpg",
+      "file_path": "/mnt/data/plans/Plan212.jpg",
+      "file_size": 400212,
+      "image_width": 2212,
+      "image_height": 1652,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan213.jpg",
+      "file_path": "/mnt/data/plans/Plan213.jpg",
+      "file_size": 400213,
+      "image_width": 2213,
+      "image_height": 1653,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan214.jpg",
+      "file_path": "/mnt/data/plans/Plan214.jpg",
+      "file_size": 400214,
+      "image_width": 2214,
+      "image_height": 1654,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan215.jpg",
+      "file_path": "/mnt/data/plans/Plan215.jpg",
+      "file_size": 400215,
+      "image_width": 2215,
+      "image_height": 1655,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan216.jpg",
+      "file_path": "/mnt/data/plans/Plan216.jpg",
+      "file_size": 400216,
+      "image_width": 2216,
+      "image_height": 1656,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan217.jpg",
+      "file_path": "/mnt/data/plans/Plan217.jpg",
+      "file_size": 400217,
+      "image_width": 2217,
+      "image_height": 1657,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan218.jpg",
+      "file_path": "/mnt/data/plans/Plan218.jpg",
+      "file_size": 400218,
+      "image_width": 2218,
+      "image_height": 1658,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan219.jpg",
+      "file_path": "/mnt/data/plans/Plan219.jpg",
+      "file_size": 400219,
+      "image_width": 2219,
+      "image_height": 1659,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan220.jpg",
+      "file_path": "/mnt/data/plans/Plan220.jpg",
+      "file_size": 400220,
+      "image_width": 2220,
+      "image_height": 1660,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan221.jpg",
+      "file_path": "/mnt/data/plans/Plan221.jpg",
+      "file_size": 400221,
+      "image_width": 2221,
+      "image_height": 1661,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan222.jpg",
+      "file_path": "/mnt/data/plans/Plan222.jpg",
+      "file_size": 400222,
+      "image_width": 2222,
+      "image_height": 1662,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan223.jpg",
+      "file_path": "/mnt/data/plans/Plan223.jpg",
+      "file_size": 400223,
+      "image_width": 2223,
+      "image_height": 1663,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan224.jpg",
+      "file_path": "/mnt/data/plans/Plan224.jpg",
+      "file_size": 400224,
+      "image_width": 2224,
+      "image_height": 1664,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan225.jpg",
+      "file_path": "/mnt/data/plans/Plan225.jpg",
+      "file_size": 400225,
+      "image_width": 2225,
+      "image_height": 1665,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan226.jpg",
+      "file_path": "/mnt/data/plans/Plan226.jpg",
+      "file_size": 400226,
+      "image_width": 2226,
+      "image_height": 1666,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan227.jpg",
+      "file_path": "/mnt/data/plans/Plan227.jpg",
+      "file_size": 400227,
+      "image_width": 2227,
+      "image_height": 1667,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan228.jpg",
+      "file_path": "/mnt/data/plans/Plan228.jpg",
+      "file_size": 400228,
+      "image_width": 2228,
+      "image_height": 1668,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan229.jpg",
+      "file_path": "/mnt/data/plans/Plan229.jpg",
+      "file_size": 400229,
+      "image_width": 2229,
+      "image_height": 1669,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan230.jpg",
+      "file_path": "/mnt/data/plans/Plan230.jpg",
+      "file_size": 400230,
+      "image_width": 2230,
+      "image_height": 1670,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan231.jpg",
+      "file_path": "/mnt/data/plans/Plan231.jpg",
+      "file_size": 400231,
+      "image_width": 2231,
+      "image_height": 1671,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan232.jpg",
+      "file_path": "/mnt/data/plans/Plan232.jpg",
+      "file_size": 400232,
+      "image_width": 2232,
+      "image_height": 1672,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan233.jpg",
+      "file_path": "/mnt/data/plans/Plan233.jpg",
+      "file_size": 400233,
+      "image_width": 2233,
+      "image_height": 1673,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan234.jpg",
+      "file_path": "/mnt/data/plans/Plan234.jpg",
+      "file_size": 400234,
+      "image_width": 2234,
+      "image_height": 1674,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan235.jpg",
+      "file_path": "/mnt/data/plans/Plan235.jpg",
+      "file_size": 400235,
+      "image_width": 2235,
+      "image_height": 1675,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan236.jpg",
+      "file_path": "/mnt/data/plans/Plan236.jpg",
+      "file_size": 400236,
+      "image_width": 2236,
+      "image_height": 1676,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan237.jpg",
+      "file_path": "/mnt/data/plans/Plan237.jpg",
+      "file_size": 400237,
+      "image_width": 2237,
+      "image_height": 1677,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan238.jpg",
+      "file_path": "/mnt/data/plans/Plan238.jpg",
+      "file_size": 400238,
+      "image_width": 2238,
+      "image_height": 1678,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan239.jpg",
+      "file_path": "/mnt/data/plans/Plan239.jpg",
+      "file_size": 400239,
+      "image_width": 2239,
+      "image_height": 1679,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan240.jpg",
+      "file_path": "/mnt/data/plans/Plan240.jpg",
+      "file_size": 400240,
+      "image_width": 2240,
+      "image_height": 1600,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan241.jpg",
+      "file_path": "/mnt/data/plans/Plan241.jpg",
+      "file_size": 400241,
+      "image_width": 2241,
+      "image_height": 1601,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan242.jpg",
+      "file_path": "/mnt/data/plans/Plan242.jpg",
+      "file_size": 400242,
+      "image_width": 2242,
+      "image_height": 1602,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan243.jpg",
+      "file_path": "/mnt/data/plans/Plan243.jpg",
+      "file_size": 400243,
+      "image_width": 2243,
+      "image_height": 1603,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan244.jpg",
+      "file_path": "/mnt/data/plans/Plan244.jpg",
+      "file_size": 400244,
+      "image_width": 2244,
+      "image_height": 1604,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan245.jpg",
+      "file_path": "/mnt/data/plans/Plan245.jpg",
+      "file_size": 400245,
+      "image_width": 2245,
+      "image_height": 1605,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan246.jpg",
+      "file_path": "/mnt/data/plans/Plan246.jpg",
+      "file_size": 400246,
+      "image_width": 2246,
+      "image_height": 1606,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan247.jpg",
+      "file_path": "/mnt/data/plans/Plan247.jpg",
+      "file_size": 400247,
+      "image_width": 2247,
+      "image_height": 1607,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan248.jpg",
+      "file_path": "/mnt/data/plans/Plan248.jpg",
+      "file_size": 400248,
+      "image_width": 2248,
+      "image_height": 1608,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan249.jpg",
+      "file_path": "/mnt/data/plans/Plan249.jpg",
+      "file_size": 400249,
+      "image_width": 2249,
+      "image_height": 1609,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan250.jpg",
+      "file_path": "/mnt/data/plans/Plan250.jpg",
+      "file_size": 400250,
+      "image_width": 2250,
+      "image_height": 1610,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan251.jpg",
+      "file_path": "/mnt/data/plans/Plan251.jpg",
+      "file_size": 400251,
+      "image_width": 2251,
+      "image_height": 1611,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan252.jpg",
+      "file_path": "/mnt/data/plans/Plan252.jpg",
+      "file_size": 400252,
+      "image_width": 2252,
+      "image_height": 1612,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan253.jpg",
+      "file_path": "/mnt/data/plans/Plan253.jpg",
+      "file_size": 400253,
+      "image_width": 2253,
+      "image_height": 1613,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan254.jpg",
+      "file_path": "/mnt/data/plans/Plan254.jpg",
+      "file_size": 400254,
+      "image_width": 2254,
+      "image_height": 1614,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan255.jpg",
+      "file_path": "/mnt/data/plans/Plan255.jpg",
+      "file_size": 400255,
+      "image_width": 2255,
+      "image_height": 1615,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan256.jpg",
+      "file_path": "/mnt/data/plans/Plan256.jpg",
+      "file_size": 400256,
+      "image_width": 2256,
+      "image_height": 1616,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan257.jpg",
+      "file_path": "/mnt/data/plans/Plan257.jpg",
+      "file_size": 400257,
+      "image_width": 2257,
+      "image_height": 1617,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan258.jpg",
+      "file_path": "/mnt/data/plans/Plan258.jpg",
+      "file_size": 400258,
+      "image_width": 2258,
+      "image_height": 1618,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan259.jpg",
+      "file_path": "/mnt/data/plans/Plan259.jpg",
+      "file_size": 400259,
+      "image_width": 2259,
+      "image_height": 1619,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan260.jpg",
+      "file_path": "/mnt/data/plans/Plan260.jpg",
+      "file_size": 400260,
+      "image_width": 2260,
+      "image_height": 1620,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan261.jpg",
+      "file_path": "/mnt/data/plans/Plan261.jpg",
+      "file_size": 400261,
+      "image_width": 2261,
+      "image_height": 1621,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan262.jpg",
+      "file_path": "/mnt/data/plans/Plan262.jpg",
+      "file_size": 400262,
+      "image_width": 2262,
+      "image_height": 1622,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan263.jpg",
+      "file_path": "/mnt/data/plans/Plan263.jpg",
+      "file_size": 400263,
+      "image_width": 2263,
+      "image_height": 1623,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan264.jpg",
+      "file_path": "/mnt/data/plans/Plan264.jpg",
+      "file_size": 400264,
+      "image_width": 2264,
+      "image_height": 1624,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan265.jpg",
+      "file_path": "/mnt/data/plans/Plan265.jpg",
+      "file_size": 400265,
+      "image_width": 2265,
+      "image_height": 1625,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan266.jpg",
+      "file_path": "/mnt/data/plans/Plan266.jpg",
+      "file_size": 400266,
+      "image_width": 2266,
+      "image_height": 1626,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan267.jpg",
+      "file_path": "/mnt/data/plans/Plan267.jpg",
+      "file_size": 400267,
+      "image_width": 2267,
+      "image_height": 1627,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan268.jpg",
+      "file_path": "/mnt/data/plans/Plan268.jpg",
+      "file_size": 400268,
+      "image_width": 2268,
+      "image_height": 1628,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan269.jpg",
+      "file_path": "/mnt/data/plans/Plan269.jpg",
+      "file_size": 400269,
+      "image_width": 2269,
+      "image_height": 1629,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan270.jpg",
+      "file_path": "/mnt/data/plans/Plan270.jpg",
+      "file_size": 400270,
+      "image_width": 2270,
+      "image_height": 1630,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan271.jpg",
+      "file_path": "/mnt/data/plans/Plan271.jpg",
+      "file_size": 400271,
+      "image_width": 2271,
+      "image_height": 1631,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan272.jpg",
+      "file_path": "/mnt/data/plans/Plan272.jpg",
+      "file_size": 400272,
+      "image_width": 2272,
+      "image_height": 1632,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan273.jpg",
+      "file_path": "/mnt/data/plans/Plan273.jpg",
+      "file_size": 400273,
+      "image_width": 2273,
+      "image_height": 1633,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan274.jpg",
+      "file_path": "/mnt/data/plans/Plan274.jpg",
+      "file_size": 400274,
+      "image_width": 2274,
+      "image_height": 1634,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan275.jpg",
+      "file_path": "/mnt/data/plans/Plan275.jpg",
+      "file_size": 400275,
+      "image_width": 2275,
+      "image_height": 1635,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan276.jpg",
+      "file_path": "/mnt/data/plans/Plan276.jpg",
+      "file_size": 400276,
+      "image_width": 2276,
+      "image_height": 1636,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan277.jpg",
+      "file_path": "/mnt/data/plans/Plan277.jpg",
+      "file_size": 400277,
+      "image_width": 2277,
+      "image_height": 1637,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan278.jpg",
+      "file_path": "/mnt/data/plans/Plan278.jpg",
+      "file_size": 400278,
+      "image_width": 2278,
+      "image_height": 1638,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan279.jpg",
+      "file_path": "/mnt/data/plans/Plan279.jpg",
+      "file_size": 400279,
+      "image_width": 2279,
+      "image_height": 1639,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    },
+    {
+      "filename": "Plan280.jpg",
+      "file_path": "/mnt/data/plans/Plan280.jpg",
+      "file_size": 400280,
+      "image_width": 2280,
+      "image_height": 1640,
+      "rooms": [
+        {
+          "room_name": "Living Room",
+          "length": 500,
+          "width": 350,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Bedroom",
+          "length": 350,
+          "width": 300,
+          "unit": "cm"
+        },
+        {
+          "room_name": "Kitchen",
+          "length": 300,
+          "width": 250,
+          "unit": "cm"
+        }
+      ],
+      "total_rooms": 3,
+      "total_area": 35.5,
+      "notes": "Generated metadata example"
+    }
+  ]
+}
